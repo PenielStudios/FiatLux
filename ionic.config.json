@@ -1,0 +1,7 @@
+{
+  "name": "fiatlux",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
